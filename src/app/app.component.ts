@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'FindASitterSpring2019CS';
+
+
+
+
+  add(a, b: number){
+    return a+b;
+  };
 }
+
